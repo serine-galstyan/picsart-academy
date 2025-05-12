@@ -21,7 +21,7 @@ public class Homework1 {
         for (byte i = -20; i <= 20; i++) {
             if (i % 2 != 0) {
                 arrayOfTask3[arrayIndex] = i;
-//                System.out.println(arrayOfTask3[j]);
+//                System.out.println(arrayOfTask3[arrayIndex]);
                 arrayIndex++;
             }
         }
