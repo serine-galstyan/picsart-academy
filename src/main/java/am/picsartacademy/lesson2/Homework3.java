@@ -15,6 +15,5 @@ public class Homework3 {
             }
         else
             System.out.println("Input N is out of the given range.");
-
     }
 }
