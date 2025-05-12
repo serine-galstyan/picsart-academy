@@ -17,12 +17,12 @@ public class Homework1 {
         /* Task 3
         Create an array and fill it with odd numbers from -20:20 */
         byte[] arrayOfTask3 = new byte[20];
-        byte j = 0;
+        byte arrayIndex = 0;
         for (byte i = -20; i <= 20; i++) {
             if (i % 2 != 0) {
-                arrayOfTask3[j] = i;
+                arrayOfTask3[arrayIndex] = i;
 //                System.out.println(arrayOfTask3[j]);
-                j++;
+                arrayIndex++;
             }
         }
 
