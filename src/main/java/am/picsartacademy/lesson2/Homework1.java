@@ -1,4 +1,4 @@
-package am.picsartacademy.lesson3;
+package am.picsartacademy.lesson2;
 
 public class Homework1 {
     public static void main(String[] args) {
