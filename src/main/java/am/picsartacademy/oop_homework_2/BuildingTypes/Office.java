@@ -16,7 +16,6 @@ public class Office extends Building {
 
     public void setRentalContract(String contractUrl) {
         rentalContract = contractUrl;
-//                "https://drive.google.com/file/d/1288HAAlYXzJPz6gO0GXfxJ3wjOXLGQIH/view?usp=sharing";
     }
 
     public String getRentalContract() {
