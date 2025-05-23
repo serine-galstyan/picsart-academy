@@ -1,6 +1,6 @@
 package am.picsartacademy.oop_homework_3;
 
-public class Main_constructors {
+public class MainСonstructors {
     public static void main(String[] args) {
         //in this way parameters will have their default values
         Subscription s = new Subscription();

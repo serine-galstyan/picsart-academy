@@ -1,6 +1,6 @@
 package am.picsartacademy.oop_homework_3;
 
-public class Main_overs {
+public class MainOvers {
     public static void main(String[] args) {
 
         TrialSubscription myTrial = new TrialSubscription("serine.galstyan98@gmail.com", "Free Trial Subscription", true);
