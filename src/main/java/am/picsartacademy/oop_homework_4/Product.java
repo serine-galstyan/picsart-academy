@@ -8,6 +8,8 @@ public class Product implements IProduct {
     protected String productName;
     protected String productImage;
     protected double productPrice;
+    public static String currency = "AMD";
+
 
     public Product(Category categoryName, Characteristic characteristicName, CharacteristicValue characteristicValue, Brand brandName, String productName, String productImage, double productPrice) {
         this.categoryName = categoryName;

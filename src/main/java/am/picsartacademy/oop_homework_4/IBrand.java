@@ -1,8 +1,7 @@
-package am.picsartacademy.oop_homework_4;
-
-public interface IBrand {
-    public void setBrandName(String brandName);
-
-    public void setBrandLogo(String brandLogo);
-
-}
+//package am.picsartacademy.oop_homework_4;
+//
+//public interface IBrand {
+//     void setBrandName(String brandName);
+//
+//     void setBrandLogo(String brandLogo);
+//}
